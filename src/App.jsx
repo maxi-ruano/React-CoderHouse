@@ -1,6 +1,6 @@
 
-import './App.css'
 import {hola as hello, chau} from './saludo.js'
+import { Tutores } from './components/Tutores';
 
 function App() {
 
@@ -10,11 +10,9 @@ chau();
   return (
     <>
       <div>
-      <h1>Hello Vite + React</h1>
      
-      <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
-      </p>
+     
+      <Tutores />
       </div>
 
     </>
