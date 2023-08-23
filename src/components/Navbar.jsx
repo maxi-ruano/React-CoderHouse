@@ -1,5 +1,6 @@
 import React from "react";
 import { Nav, Navbar, NavDropdown, Form, FormControl, Button } from "react-bootstrap";
+import { CartWidget } from "./CartWidget";
 
 export const CustomNavbar = () => {
   return (
@@ -16,14 +17,16 @@ export const CustomNavbar = () => {
             <NavDropdown.Divider />
             <NavDropdown.Item href="#">Something else here</NavDropdown.Item>
           </NavDropdown>
-          <Nav.Link href="#" disabled>
+          {/* <Nav.Link href="#" disabled>
             Disabled
-          </Nav.Link>
+          </Nav.Link> */}
         </Nav>
         <Form >
-          <FormControl type="text" placeholder="Search" className="mr-sm-2" />
+          <FormControl type="text" placeholder="Search" className="mr-sm-2" id="Buscador"/>
+          <br></br>
           <Button variant="outline-success">Search</Button>
         </Form>
+        <CartWidget/>
       </Navbar.Collapse>
     </Navbar>
   );
