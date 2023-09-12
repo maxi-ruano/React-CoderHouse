@@ -1,0 +1,40 @@
+
+ [
+    {
+        "id": 1 ,
+        "nombre" : "producto 1 " ,
+        "descripcion" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi possimus eaque sunt sint at culpa deleniti nemo minus tempore illum nulla porro sed, nobis obcaecati facilis non, recusandae eos quam",
+        "precio" : 1500
+    },
+    {
+        "id": 2 ,
+        "nombre" : "producto 2 " ,
+        "img" : "https://bootstrap-ecommerce.com/bootstrap5-ecommerce/images/items/11.webp",
+        "descripcion" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi possimus eaque sunt sint at culpa deleniti nemo minus tempore illum nulla porro sed, nobis obcaecati facilis non, recusandae eos quam",
+        "precio" : 2000
+    },
+    {
+        "id": 3 ,
+        "nombre" : "producto 3 " ,
+        "descripcion" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi possimus eaque sunt sint at culpa deleniti nemo minus tempore illum nulla porro sed, nobis obcaecati facilis non, recusandae eos quam",
+        "precio" : 2500
+    },
+    {
+        "id": 4 ,
+        "nombre" : "producto 4 " ,
+        "descripcion" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi possimus eaque sunt sint at culpa deleniti nemo minus tempore illum nulla porro sed, nobis obcaecati facilis non, recusandae eos quam",
+        "precio" : 3000
+    },
+    {
+        "id": 5 ,
+        "nombre" : "producto 5 " ,
+        "descripcion" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi possimus eaque sunt sint at culpa deleniti nemo minus tempore illum nulla porro sed, nobis obcaecati facilis non, recusandae eos quam",
+        "precio" : 3500
+    },
+    {
+        "id": 6,
+        "nombre" : "producto 6 " ,
+        "descripcion" : " Lorem ipsum dolor sit amet consectetur adipisicing elit. Excepturi possimus eaque sunt sint at culpa deleniti nemo minus tempore illum nulla porro sed, nobis obcaecati facilis non, recusandae eos quam",
+        "precio" : 4000
+    }
+]
